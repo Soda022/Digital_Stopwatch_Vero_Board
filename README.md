@@ -15,19 +15,14 @@ This 100 Hz clock was used to run the Decade counter IC's (IC 74LS90) serially o
 The circuit was initially run on a breadboard for testing purposes. The workbench included the ICs, seven-segment displays, crystal oscillator, and necessary wiring to ensure proper functionality before final assembly.
 
 
-![Breadborad_test](https://github.com/user-attachments/assets/1720f8b5-1f39-4ba0-8691-07ab87293f91)
-
+<img src="https://github.com/user-attachments/assets/1720f8b5-1f39-4ba0-8691-07ab87293f91" alt="Description" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/79d209a8-0846-4c08-9e99-1817f40a9a52" alt="Description" width="500" height="300">
 
 Then the circuit was made on Veroboard using a soldering kit. This involved carefully placing the components onto the board and soldering them in place to ensure secure and reliable connections. This step provided a more permanent and durable setup compared to the initial breadboard version.
-
-
-![Upfront](https://github.com/user-attachments/assets/79d209a8-0846-4c08-9e99-1817f40a9a52)
-
-
 The final setup involved mounting the components on Veroboard and soldering them in place. This provided a durable and reliable stopwatch, replacing the initial breadboard prototype for long-term use.
 
 
-![Setup](https://github.com/user-attachments/assets/4a15f609-bf9c-494f-b504-9a8f9c654125)
+<img src="https://github.com/user-attachments/assets/4a15f609-bf9c-494f-b504-9a8f9c654125" alt="Description" width="750" height="500">
 
 
 The circuit was successfully run, demonstrating accurate timekeeping. The final Veroboard setup performed reliably, validating the design and proving the effectiveness of the initial breadboard prototype.
