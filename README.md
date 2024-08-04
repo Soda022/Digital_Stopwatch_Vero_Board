@@ -33,7 +33,5 @@ The final setup involved mounting the components on Veroboard and soldering them
 The circuit was successfully run, demonstrating accurate timekeeping. The final Veroboard setup performed reliably, validating the design and proving the effectiveness of the initial breadboard prototype.
 
 
-![Upfront](https://github.com/user-attachments/assets/27e37e9a-7da6-4418-b65c-548917cd4bd7)
-
 
 
