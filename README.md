@@ -1,0 +1,3 @@
+## Digital Stopwatch using IC 7490 and 7447
+
+This project is a digital stopwatch built using IC 7490 decade counters and IC 7447 seven-segment display drivers. The stopwatch features six seven-segment displays: two for minutes, two for seconds, and two for hundredths of a second, providing precision timing. A crystal oscillator is used to provide a stable clock signal for accurate timekeeping. The design effectively demonstrates the practical application of digital logic circuits in building a functional stopwatch. This project is ideal for learning about counters, display drivers, and the integration of digital components in a real-world application.
